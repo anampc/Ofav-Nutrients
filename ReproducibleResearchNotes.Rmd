@@ -1,0 +1,137 @@
+---
+title: "Notes about Data science specialization"
+author: "Ana Palacio"
+date: "September 8, 2016"
+output: html_document
+---
+------------------------------------
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Titles are delimited with the equals 
+
+# Specialization
+
+0. Scientist toolbox
+1. R programing
+2. Getting data
+3. Exploratory data analysis 
+  - Exploatory graphs
+  - Plotting systems in r
+  - Multivariate data
+  - Multiple modes of evidence
+  
+4. Reproducible research
+5. Statistical inference: Generalizable information from data 
+6. Regression models
+7. Practical Machine learning
+8. Building data products
+  - R packages as devtools
+  - rCharts
+  - Shine 
+
+------------------------------------------
+
+0. SCIENTIST TOOLBOX
+====================
+
+# 2. Stats
+# 3. Substantive expertise
+# 1. Hacking skills: computing/coding (in this case in R) and being able to answer questions by yourself
+--------------------------------------------------
+
+## Getting help
+
+### get help in R
+  
+  -?funcion
+  - help.seach(function)
+  - args("function")
+  - function ... r givies you the syntaxix
+
+### Ask for help 
+
+When you ask for help: Give specific steps to reproduce the problem, versions, operation system, goal or expected results, actual result, what solutions are you thought about?
+
+### Finding Answers
+
+None of the knowlege you need will be in a notebook. It is skatter around. Try to: 
+
+- Find where to look (Stackoverflow, use tag "[r]")
+- Be Unitimidated by new data and packages
+- Be unafraid to sayyou do not knwow the answers
+
+
+## Comand line interface
+
+  - Navegate folders, creat folders and files, edit...
+  - Navegates in a directories that have a structure
+  - Use command + Flags (preceded by -) + Arguments
+      
+      I.e. touch creates an empty file, mkdir creates a folder, pwd, clear, ls. cd, cp, rm, ....
+  
+## GIT and version control system. Same linux developers!
+
+- Records changes to a file or set of files. Save o manage intermidiate files, important to colaborate. 
+
+### Install git in your computer and configurate your account
+
+user and email 
+
+### Colaborae using GitHub using push and pull bw web and your local computer
+
+- use same email adress that you use to conf git
+- Create a repo: 
+
+1. Start from scratch: 
+ -
+ 
+2. Fork from another user
+  
+
+
+----------------------------------------------
+
+4. REPRODUCIBLE RESEARCH NOTES 
+===========================
+
+# Literate Statistical Programing
+
+Literate programing lenguaje:  
+
+- Sweve uses Latex, Latex if for weirdos  
+- Markdown and Knit could use multiple and are integrated in Rstudio! 
+
+## Basic Markdown syntaxis 
+
+Above is a 2nd level header. Down there is a 3rd level header 
+
+### Including code
+
+Down is how you insert r code. In this case the code itself will be printed
+
+```{r}
+summary(cars)
+```
+
+If you use echo=F, only the result is printed. You can also name your piece of code, in this case = cars
+
+```{r cars, echo=FALSE}
+summary(cars)
+```
+
+### Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+## Caching computations
+We use cacher packege in R to not recompute everything if there is not changes in the code, so getting the output document is faster. It lazy-load precomputaded results. Source code and metadata is downloades but not 
+

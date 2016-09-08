@@ -1,0 +1,81 @@
+---
+title: "Notes for the Ofav-Acer response to Nutrients and CO2"
+author: "Ana Palacio"
+date: "September 8, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## QUESTIONS
+
+ 1. How do nutrient enrichment and CO2 affect: 
+- Symbiont communities estructure and function (S:H, densities, Chl, Fv/Fm)
+- Host function: Calcificaton and Lipids 
+ in O.fav and A.cer
+
+2.  How these species*treatments respond to thermal stress? (Bleaching response)
+ - Symbiont communities estructure and function (S:H, densities, Chl, Fv/Fm),
+ - Host function: Calcificaton, and Lipids
+ 
+-----------------------------------------------
+
+##  Planed data and sample collection 
+ 1. Nutrient concentrations 
+ 2. Temperature (HOBOs)
+ 4. Coral Biopsies
+ 5. Bouyant weight before and after sampling
+ 6. Cores + Blasting (Chl, cell counts and lipids)
+ 3. IPAM 
+
+-----------------------------------------------
+
+## Cores History
+ 1. Collection
+ 2. Coring
+ 3. Recovery
+ 
+### Colonies 1-2-3-5
+Most of these cores died after temp control broke twice. None has enough left to use in the experiment.
+
+### Colony 4
+This colony was big and we got a bunch of thermal resistant cores. Some of them recovered and could be used in the experiment. tAke into account they were already stressed. 
+ 
+### Colony 6
+ 
+Colony 6 (Volcano) has huge mortality in 9/8/16. Mortality in this same genotype started two weeks ago in cores in the wet lab and was spread to Ofav 7. CD was at the hatchery on 9/7/16 morning and did not notice anything. ~ 40 cores + some pieces were lost in ~ 40 hours. Partially dead cores were moved to another tank. 
+ 
+## Problems to solve before start the experiment
+
+1. How much nutrients need to be added to keep concentrations constant?
+
+
+-----------------------------------------------
+## DATA ANALISIS
+
+### Data Cleaning
+
+- Reformating and subsampling 
+- Be sure that processed data is easy to follow from raw data
+- Exploratory figures
+- Check the data quality for the question 
+- Statistical prediction modeling
+- Final figures to pubish results 
+
+Insert code like this 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
