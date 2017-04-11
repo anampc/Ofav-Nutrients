@@ -61,18 +61,18 @@ No Tag ??, colony with multiple pieces since it was collected. Got 63 cores, sma
 #### Colony 11: 
 No Tag ??, Got 84 cores, whole colony cored, small cores.
 #### Colony 22: 
-Tag 946, whole colony cored, small size. Finished by AP and CD on 4/01/2017.
+Tag 946, whole colony cored, small size. Finished by AP and CD on 4/01/2017. Tested for symbionts (RC): 100% D proportion
 
 
 ### Siderastrea siderea
 #### Colony 20: 
-Tag 950, got 106 core small size. Whole colony cored by AP and RC. ~20 cores from initial coring look very bad. 
+Tag 950, got 106 core small size. Whole colony cored by AP and RC. ~20 cores from initial coring look very bad. Tested for symbionts (RC) and bw 0-100% D proportion
 #### Colony 22: 
-Tag 948, 66 big cores. Whole colony cored by AP, CD and PR. All the cores look ok
+Tag 948, 66 big cores. Whole colony cored by AP, CD and PR. All the cores look ok.Tested for symbionts (RC): 100% D proportion
 #### Colony 23: 
-Tag 941, 81 small cores. Whole colony cored.
+Tag 945, 81 small cores. Whole colony cored. Tested for symbionts (RC): 100% D proportion
 #### Colony 27: 
-Tag 941, 98 small cores. Whole colony cored.
+Tag 941, 98 small cores. Whole colony cored. Tested for symbionts (RC): 100% D proportion
 #### Colony 30: 
 Tag 713, 65 big cores. Whole colony cored by AP, CD and PR. All the cores look ok.
 
