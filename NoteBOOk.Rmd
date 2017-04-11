@@ -46,6 +46,81 @@ This colony was big and we got a bunch of thermal resistant cores. Some of them 
 ### Colony 6
  
 Colony 6 (Volcano) has huge mortality in 9/8/16. Mortality in this same genotype started two weeks ago in cores in the wet lab and was spread to Ofav 7. CD was at the hatchery on 9/7/16 morning and did not notice anything. ~ 40 cores + some pieces were lost in ~ 40 hours. Partially dead cores were moved to another tank. 
+
+### 2017
+Almost all the cores died from the weird tissue lost. During march 2017 while I was in Galapagos the lab collected more colonies and some of those have been cored and are recovering. Two drill bite sizes were used since Ssid is not recovering very well with the smaller size. 
+
+
+### Orbicella faveolata
+### Colony 6: 
+Only colony that has enogh cores left grom 2016. 48 cores, small size, with epoxy around
+### Colony 9: 
+Tag 702, got 61 cores, small size. Whole colony cored by AP and CD on 4/5/2017.
+### Colony 10: 
+No Tag ??, colony with multiple pieces since it was collected. Got 63 cores, small size and prtty green polyps. There are more from this colony to be cored.
+### Colony 11: 
+No Tag ??, Got 84 cores, whole colony cored, small cores.
+### Colony 22: 
+Tag 946, whole colony cored, small size. Finished by AP and CD on 4/01/2017.
+
+
+### Siderastrea siderea
+### Colony 20: 
+Tag 950, got 106 core small size. Whole colony cored by AP and RC. ~20 cores from initial coring look very bad. 
+### Colony 22: 
+Tag 948, 66 big cores. Whole colony cored by AP, CD and PR. All the cores look ok
+### Colony 23: 
+Tag 941, 81 small cores. Whole colony cored.
+### Colony 27: 
+Tag 941, 98 small cores. Whole colony cored.
+### Colony 30: 
+Tag 713, 65 big cores. Whole colony cored by AP, CD and PR. All the cores look ok.
+
+Samples for initial symbiont identification. 4/11/2017
+
+* Ofav 6-86
+* Ofav 6-96
+* Ofav 6-107
+
+* Ofav 9-50
+* Ofav 9-20
+* Ofav 9-24
+
+* Ofav 10-59
+* Ofav 10-A
+* Ofav 10-B
+
+* Ofav 11-A
+* Ofav 11-B
+* Ofav 11-C
+
+* Ofav 22-36
+* Ofav 22-12
+* Ofav 22-27
+
+* Ssid 20-91
+* Ssid 20-49
+* Ssid 20-36
+
+* Ssid 22-A
+* Ssid 22-B
+* Ssid 22-C
+
+* Ssid 23-A
+* Ssid 23-B
+* Ssid 23-C
+
+* Ssid 27-36
+* Ssid 27-13
+* Ssid 27-88
+
+* Ssid 30-A
+* Ssid 30-B
+* Ssid 30-C
+
+
+
+
  
 ## Problems to solve before start the experiment
 
